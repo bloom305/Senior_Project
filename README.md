@@ -36,7 +36,6 @@ In the end, the became a simple interface that had a few simple functions.  Writ
 ![Missing Screen](Images/MissingScreen.png)
 ![Internal](Images/RARA_internal.png)
 ![Concept](Images/initial_concept.png)
-![Prototype](Images/Prototype.png)
 
 ## TODO
 - [ ] Mobile Device Control
